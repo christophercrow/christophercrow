@@ -49,7 +49,7 @@ Featuring:
 - [DVWA](http://www.dvwa.co.uk/) 
 - [Security Onion](https://securityonion.net/)  
 
-**[📊 Gaia DR4 Pipeline](https://github.com/christophercrow/gaia-etl)**  
+**📊 Gaia DR4 Pipeline**  
 Built with:  
 - [HDF5](https://www.hdfgroup.org/solutions/hdf5/) 
 - [Dask](https://www.dask.org/) 
