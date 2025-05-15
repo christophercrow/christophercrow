@@ -57,11 +57,6 @@ Built with:
 
 ### 🎓 Education & Credentials
 **UNC Chapel Hill** | B.S. Astrophysics ('25)  
-- Coursework: [HPC Numerical Methods](https://icl.utk.edu/~luszczek/teaching/) | [Quantum Mechanics](https://www.feynmanlectures.caltech.edu/III_toc.html)  
-
-**Certifications**  
-[![CompTIA](https://img.shields.io/badge/CompTIA_Security+-E40538?logo=comptia)](https://www.comptia.org/certifications/security) 
-[![Cisco](https://img.shields.io/badge/CCNA-005073?logo=cisco)](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html)  
 
 ### ⚡ Beyond Code
 - **Planetarium Tech**: Managed [Sky-Skan](https://skyskan.com/) DigitalSky systems
