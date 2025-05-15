@@ -40,10 +40,10 @@
 [![Fortran](https://img.shields.io/badge/-Fortran-734F96)](https://fortran-lang.org/)  
 
 ### 🌌 Notable Projects
-**[🛰️ Supersonic Rocket Platform](https://github.com/christophercrow/rocket-platform)**  
-NASA-reviewed design reaching Mach 1.28 ([Telemetry Code](https://github.com/christophercrow/rocket-telemetry))  
+**🛰️ Supersonic Rocket Platform**  
+NASA-reviewed design reaching Mach 1.28   
 
-**[🔒 Vulnerability Testing Lab](https://github.com/christophercrow/security-lab)**  
+**🔒 Vulnerability Testing Lab**  
 Featuring:  
 - [bWAPP](http://www.itsecgames.com/) 
 - [DVWA](http://www.dvwa.co.uk/) 
