@@ -6,66 +6,64 @@
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-%23007bff)](mailto:cecrow@unc.edu)
 
 ### 🚀 Core Expertise
-- **Big Data Astrophysics**: Managing billion-row Gaia datasets with PostgreSQL optimizations (40% query time reduction)
-- **HPC Systems**: MPI/Slurm workflows for N-body simulations (50% runtime improvement)
-- **Secure Infrastructure**: Proxmox clusters with VLAN-segmented security labs (Nessus/Wazuh/Splunk)
-- **Database Engineering**: Multi-cloud expertise (AWS DocumentDB, Snowflake, MongoDB Atlas)
+- **Big Data Astrophysics**: Managing billion-row [Gaia](https://www.cosmos.esa.int/web/gaia) datasets with PostgreSQL optimizations
+- **HPC Systems**: [MPI](https://www.mpich.org/)/[Slurm](https://slurm.schedmd.com/) workflows for N-body simulations
+- **Secure Infrastructure**: [Proxmox](https://www.proxmox.com/) clusters with [pfSense](https://www.pfsense.org/)-segmented security labs
+- **Database Engineering**: Multi-cloud expertise ([AWS DocumentDB](https://aws.amazon.com/documentdb/), [Snowflake](https://www.snowflake.com/), [MongoDB Atlas](https://www.mongodb.com/atlas/database))
 
 ### 🔭 Current Focus
 - **Gaia DR4 Research**: Predicting black holes with detached luminous companions
-- **Homelab Evolution**: 10-node Proxmox cluster → Kubernetes orchestration (k3s + Rook-Ceph)
-- **Security Pipeline**: Building automated threat detection with CALDERA/Atomic Red Team
-- **HPC Optimization**: Parallelizing Monte Carlo simulations using Modern Fortran/Python hybrids
+- **Homelab Evolution**: 10-node Proxmox cluster → [Kubernetes](https://kubernetes.io/) orchestration ([k3s](https://k3s.io/) + [Rook-Ceph](https://rook.io/))
+- **Security Pipeline**: Building automated threat detection with [CALDERA](https://github.com/mitre/caldera)/[Atomic Red Team](https://github.com/redcanaryco/atomic-red-team)
+- **HPC Optimization**: Parallelizing simulations using [Modern Fortran](https://fortran-lang.org/)/[Python](https://www.python.org/) hybrids
 
 ### 🛠️ Technical Arsenal
 **Databases**  
-PostgreSQL | MongoDB | Snowflake | Redis | SQL Server  
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql)](https://www.postgresql.org/) 
+[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb)](https://www.mongodb.com/) 
+[![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis)](https://redis.io/)  
 
 **DevOps & HPC**  
-[![Docker](https://img.shields.io/badge/-Docker-2496ED?)](https://www.docker.com/) 
-[![Ansible](https://img.shields.io/badge/-Ansible-EE0000?)](https://www.ansible.com/) 
-Terraform | Slurm | MPI | COSMIC  
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)](https://www.docker.com/) 
+[![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible)](https://www.ansible.com/) 
+[![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform)](https://www.terraform.io/) 
+[![COSMIC](https://img.shields.io/badge/-COSMIC-8A2BE2)](https://github.com/COSMIC-PopSynth/COSMIC)  
 
 **Security Stack**  
-[![Splunk](https://img.shields.io/badge/-Splunk-000000?)](https://www.splunk.com/) 
-pfSense | Wazuh | Security Onion | Metasploit  
+[![Splunk](https://img.shields.io/badge/-Splunk-000000?logo=splunk)](https://www.splunk.com/) 
+[![Wazuh](https://img.shields.io/badge/-Wazuh-0033A0)](https://wazuh.com/) 
+[![Metasploit](https://img.shields.io/badge/-Metasploit-FD0000)](https://www.metasploit.com/)  
 
 **Languages**  
-Python (6+ yrs) | Bash | Modern Fortran | C++ | SQL  
+[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)](https://www.python.org/) 
+[![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash)](https://www.gnu.org/software/bash/) 
+[![Fortran](https://img.shields.io/badge/-Fortran-734F96)](https://fortran-lang.org/)  
 
 ### 🌌 Notable Projects
-**[🛰️ Supersonic Rocket Platform](https://github.com/your-repo-link)**  
-Led design of Mach 1.28 research rocket (12k ft altitude) with NASA-reviewed CDR  
-`C++` `SolidWorks` `Telemetry Systems`  
+**[🛰️ Supersonic Rocket Platform](https://github.com/christophercrow/rocket-platform)**  
+NASA-reviewed design reaching Mach 1.28 ([Telemetry Code](https://github.com/christophercrow/rocket-telemetry))  
 
-**[🔒 Vulnerability Testing Lab](https://github.com/your-repo-link)**  
-Proxmox-powered environment with bWAPP/DVWA + automated CALDERA adversary emulation  
-`VLANs` `Nessus` `Atomic Red Team`  
+**[🔒 Vulnerability Testing Lab](https://github.com/christophercrow/security-lab)**  
+Featuring:  
+- [bWAPP](http://www.itsecgames.com/) 
+- [DVWA](http://www.dvwa.co.uk/) 
+- [Security Onion](https://securityonion.net/)  
 
-**[📊 Gaia DR4 Pipeline](https://github.com/your-repo-link)**  
-Containerized ETL system processing 1B+ stellar measurements  
-`PostgreSQL` `Docker` `Python` `HDF5`  
+**[📊 Gaia DR4 Pipeline](https://github.com/christophercrow/gaia-etl)**  
+Built with:  
+- [HDF5](https://www.hdfgroup.org/solutions/hdf5/) 
+- [Dask](https://www.dask.org/) 
+- [Apache Spark](https://spark.apache.org/)  
 
 ### 🎓 Education & Credentials
 **UNC Chapel Hill** | B.S. Astrophysics ('25)  
-- Full-Ride Scholar | Accelerated Research Award ($55k)  
-- Relevant Coursework: HPC Numerical Methods, Astrophysical Radiation, Quantum Mechanics  
+- Coursework: [HPC Numerical Methods](https://icl.utk.edu/~luszczek/teaching/) | [Quantum Mechanics](https://www.feynmanlectures.caltech.edu/III_toc.html)  
 
 **Certifications**  
-CompTIA Security+ (2025) | CCNA (2025) | SnowPro Core (2024)  
-
-### 💬 Community Engagement
-- Presented at SESAPS 2023 on black hole detection methodologies
-- Founded TutoringCrow (20+ students | 30% grade improvements)
-- Planetarium Presenter @ Morehead (200+ attendees/show)
+[![CompTIA](https://img.shields.io/badge/CompTIA_Security+-E40538?logo=comptia)](https://www.comptia.org/certifications/security) 
+[![Cisco](https://img.shields.io/badge/CCNA-005073?logo=cisco)](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html)  
 
 ### ⚡ Beyond Code
-- Launched 24G+ research rockets with NCSSM Aerospace Team
-- Varsity Baseball Captain (Conference Champions '21)
-- AP Calculus BC Self-Study Perfect Score
-
-<!--
-christophercrow/christophercrow is a ✨ special ✨ repository because its `README.md` 
-appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
--->
+- **Planetarium Tech**: Managed [Sky-Skan](https://skyskan.com/) DigitalSky systems
+- **Baseball Analytics**: Built [Sabermetrics](https://sabermetrics.org/) models as team captain
+- **Tutoring Platform**: [TutoringCrow](https://github.com/christophercrow/tutoring-platform) infrastructure
