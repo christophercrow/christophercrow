@@ -44,26 +44,7 @@
 **Languages**  
 [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)](https://www.python.org/) 
 [![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash)](https://www.gnu.org/software/bash/) 
-[![Fortran](https://img.shields.io/badge/-Fortran-734F96)](https://fortran-lang.org/)  
 
----
-
-### 🌌 Notable Projects
-
-**🔒 [Vulnerability Testing Lab](https://github.com/christophercrow/homelab)**  
-Realistic pentesting environments with  
-- [bWAPP](http://www.itsecgames.com/) 
-- [DVWA](http://www.dvwa.co.uk/) 
-- [Security Onion](https://securityonion.net/)
-
-**📊 [Gaia DR4 Data Pipeline](https://github.com/christophercrow/astro-blackhole-gaia)**  
-Built for billion-row analysis:  
-- [HDF5](https://www.hdfgroup.org/solutions/hdf5/) 
-- [Dask](https://www.dask.org/) 
-- [Apache Spark](https://spark.apache.org/) 
-
-**🏠 [Homelab Infrastructure & Automation](https://github.com/christophercrow/homelab)**  
-Proxmox + pfSense, Ansible for cluster automation, real-world SOC simulation.
 
 
 ---
@@ -71,7 +52,7 @@ Proxmox + pfSense, Ansible for cluster automation, real-world SOC simulation.
 ### 🎓 Education & Credentials
 
 **University of North Carolina at Chapel Hill** | B.S. Astrophysics (`'25`)  
-- Full-Ride Scholarship | Accelerated Research Scholar
+- Accelerated Research Scholar
 - [SESAPS Conference Presenter](https://meetings.aps.org/Meeting/SES24/Session/D01.56)
 - [Security+ (Expected 2025)](https://www.comptia.org/certifications/security)
 - [CCNA (Expected 2025)](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html)
@@ -81,7 +62,6 @@ Proxmox + pfSense, Ansible for cluster automation, real-world SOC simulation.
 ### ⚡ Beyond Code
 
 - **Planetarium Presenter/Tech:** Managed [Sky-Skan](https://skyskan.com/) DigitalSky systems for 200+ audiences.
-- **Baseball Analytics:** Built [Sabermetrics](https://sabermetrics.org/) models and led as team captain.
 - **Outreach:** Advocate for scientific communication, technical writing, and hands-on cybersecurity education.
 
 ---
