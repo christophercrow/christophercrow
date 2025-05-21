@@ -5,19 +5,26 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2)](https://www.linkedin.com/in/christopher-crow-915288240/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-%23007bff)](mailto:cecrow@unc.edu)
 
+---
+
 ### 🚀 Core Expertise
-- **Big Data Astrophysics**: Managing billion-row [Gaia](https://www.cosmos.esa.int/web/gaia) datasets with PostgreSQL optimizations
-- **HPC Systems**: [MPI](https://www.mpich.org/)/[Slurm](https://slurm.schedmd.com/) workflows for N-body simulations
-- **Secure Infrastructure**: [Proxmox](https://www.proxmox.com/) clusters with [pfSense](https://www.pfsense.org/)-segmented security labs
-- **Database Engineering**: Multi-cloud expertise ([AWS DocumentDB](https://aws.amazon.com/documentdb/), [Snowflake](https://www.snowflake.com/), [MongoDB Atlas](https://www.mongodb.com/atlas/database))
+
+- **Big Data Astrophysics:** Managing billion-row [Gaia](https://www.cosmos.esa.int/web/gaia) datasets with PostgreSQL optimizations
+- **Secure Infrastructure:** [Proxmox](https://www.proxmox.com/) clusters with [pfSense](https://www.pfsense.org/)-segmented security labs
+- **Database Engineering:** Multi-cloud ([AWS DocumentDB](https://aws.amazon.com/documentdb/), [Snowflake](https://www.snowflake.com/), [MongoDB Atlas](https://www.mongodb.com/atlas/database))
+
+---
 
 ### 🔭 Current Focus
-- **Gaia DR4 Research**: Predicting black holes with detached luminous companions
-- **Homelab Evolution**: 10-node Proxmox cluster → [Kubernetes](https://kubernetes.io/) orchestration ([k3s](https://k3s.io/) + [Rook-Ceph](https://rook.io/))
-- **Security Pipeline**: Building automated threat detection with [CALDERA](https://github.com/mitre/caldera)/[Atomic Red Team](https://github.com/redcanaryco/atomic-red-team)
-- **HPC Optimization**: Parallelizing simulations using [Modern Fortran](https://fortran-lang.org/)/[Python](https://www.python.org/) hybrids
+
+- **Gaia DR4 Research:** Predicting black holes with detached luminous companions
+- **Homelab Evolution:** 10-node Proxmox cluster → [Kubernetes](https://kubernetes.io/) orchestration ([k3s](https://k3s.io/) + [Rook-Ceph](https://rook.io/))
+- **Security Pipeline:** Building automated threat detection with [CALDERA](https://github.com/mitre/caldera)/[Atomic Red Team](https://github.com/redcanaryco/atomic-red-team)
+
+---
 
 ### 🛠️ Technical Arsenal
+
 **Databases**  
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql)](https://www.postgresql.org/) 
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb)](https://www.mongodb.com/) 
@@ -39,26 +46,52 @@
 [![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash)](https://www.gnu.org/software/bash/) 
 [![Fortran](https://img.shields.io/badge/-Fortran-734F96)](https://fortran-lang.org/)  
 
-### 🌌 Notable Projects
-**🛰️ Supersonic Rocket Platform**  
-NASA-reviewed design reaching Mach 1.28   
+---
 
-**🔒 Vulnerability Testing Lab**  
-Featuring:  
+### 🌌 Notable Projects
+
+**🔒 [Vulnerability Testing Lab](https://github.com/christophercrow/homelab)**  
+Realistic pentesting environments with  
 - [bWAPP](http://www.itsecgames.com/) 
 - [DVWA](http://www.dvwa.co.uk/) 
-- [Security Onion](https://securityonion.net/)  
+- [Security Onion](https://securityonion.net/)
 
-**📊 Gaia DR4 Pipeline**  
-Built with:  
+**📊 [Gaia DR4 Data Pipeline](https://github.com/christophercrow/astro-blackhole-gaia)**  
+Built for billion-row analysis:  
 - [HDF5](https://www.hdfgroup.org/solutions/hdf5/) 
 - [Dask](https://www.dask.org/) 
-- [Apache Spark](https://spark.apache.org/)  
+- [Apache Spark](https://spark.apache.org/) 
+
+**🏠 [Homelab Infrastructure & Automation](https://github.com/christophercrow/homelab)**  
+Proxmox + pfSense, Ansible for cluster automation, real-world SOC simulation.
+
+
+---
 
 ### 🎓 Education & Credentials
-**UNC Chapel Hill** | B.S. Astrophysics ('25)  
+
+**University of North Carolina at Chapel Hill** | B.S. Astrophysics (`'25`)  
+- Full-Ride Scholarship | Accelerated Research Scholar
+- [SESAPS Conference Presenter](https://meetings.aps.org/Meeting/SES24/Session/D01.56)
+- [Security+ (Expected 2025)](https://www.comptia.org/certifications/security)
+- [CCNA (Expected 2025)](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html)
+
+---
 
 ### ⚡ Beyond Code
-- **Planetarium Tech**: Managed [Sky-Skan](https://skyskan.com/) DigitalSky systems
-- **Baseball Analytics**: Built [Sabermetrics](https://sabermetrics.org/) models as team captain
-- **Tutoring Platform**: [TutoringCrow](https://github.com/christophercrow/tutoring-platform) infrastructure
+
+- **Planetarium Presenter/Tech:** Managed [Sky-Skan](https://skyskan.com/) DigitalSky systems for 200+ audiences.
+- **Baseball Analytics:** Built [Sabermetrics](https://sabermetrics.org/) models and led as team captain.
+- **Outreach:** Advocate for scientific communication, technical writing, and hands-on cybersecurity education.
+
+---
+
+### 📫 Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-@christophercrow-181717?logo=github)](https://github.com/christophercrow)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Christopher%20Crow-%230A66C2?logo=linkedin)](https://www.linkedin.com/in/christopher-crow-915288240/)  
+[![Email](https://img.shields.io/badge/Email-cecrow%40unc.edu-blue?logo=gmail)](mailto:cecrow@unc.edu)  
+
+---
+
+<sub>Last updated: 2025</sub>
